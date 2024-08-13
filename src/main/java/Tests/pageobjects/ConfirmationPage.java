@@ -24,9 +24,12 @@ WebDriver driver;
 
     public String getConfirmationMessage()
     {
-
-
         return confirmationMessage.getText();
+    }
+
+    public void numb()
+    {
+        System.out.println("I can feel you there");
     }
 
 
