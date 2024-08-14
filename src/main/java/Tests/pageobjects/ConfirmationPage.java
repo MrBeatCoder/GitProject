@@ -32,5 +32,10 @@ WebDriver driver;
         System.out.println("I can feel you there");
     }
 
+    public void forgotten()
+    {
+        System.out.println("What is the code?");
+    }
+
 
 }

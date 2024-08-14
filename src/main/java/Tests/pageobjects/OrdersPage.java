@@ -30,5 +30,10 @@ WebDriver driver;
         return match;
     }
 
+    public void inTheEnd()
+    {
+        System.out.println("Here is the end of the page");
+    }
+
 
 }
